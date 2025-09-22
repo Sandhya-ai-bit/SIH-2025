@@ -4,7 +4,7 @@ import FooterCard from '../components/FooterCard';
 const About = () => {
   return (
     <main className="container mx-auto px-4 py-16 min-h-screen flex flex-col gap-8">
-      <h1 className="text-4xl font-bold text-purple-400 mb-8">About Us</h1>
+      <h1 className="text-4xl font-extrabold text-purple-400 mb-8">About Us</h1>
 
       {/* About Card */}
       <div className="bg-slate-800 border border-slate-700 rounded-3xl p-8 shadow-xl max-w-3xl mx-auto">
